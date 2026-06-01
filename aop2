@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Blog de Esportes</title>
+</head>
+<body>
+
+<header>
+    <h1>Blog de Esportes</h1>
+</header>
+
+<nav>
+    <a href="index.html">Home</a> |
+    <a href="futebol.html">Futebol</a> |
+    <a href="basquete.html">Basquete</a> |
+    <a href="natacao.html">Natação</a> |
+    <a href="contatos.html">Contatos</a>
+</nav>
+
+<main>
+    <h2>Bem-vindo ao Blog de Esportes</h2>
+
+    <p>
+        Este blog apresenta informações sobre diferentes modalidades esportivas.
+        Aqui você encontrará conteúdos sobre futebol, basquete e natação.
+    </p>
+
+    <h3>Conteúdos em destaque</h3>
+
+    <a href="futebol.html">
+        <img src="futebol.jpg" alt="Futebol" width="250">
+    </a>
+    <p>Conheça mais sobre o esporte mais popular do mundo.</p>
+
+    <a href="basquete.html">
+        <img src="basquete.jpg" alt="Basquete" width="250">
+    </a>
+    <p>Informações sobre regras e história do basquete.</p>
+
+    <a href="natacao.html">
+        <img src="natacao.jpg" alt="Natação" width="250">
+    </a>
+    <p>Benefícios e curiosidades sobre a natação.</p>
+</main>
+
+<footer>
+    <p>Blog de Esportes - 2026</p>
+</footer>
+
+</body>
+</html>  
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Futebol</title>
+</head>
+<body>
+
+<header>
+    <h1>Futebol</h1>
+</header>
+
+<nav>
+    <a href="index.html">Home</a> |
+    <a href="futebol.html">Futebol</a> |
+    <a href="basquete.html">Basquete</a> |
+    <a href="natacao.html">Natação</a> |
+    <a href="contatos.html">Contatos</a>
+</nav>
+
+<main>
+    <h2>Sobre o Futebol</h2>
+
+    <p>
+        O futebol é um dos esportes mais praticados e assistidos do mundo.
+        É disputado entre duas equipes com onze jogadores cada.
+    </p>
+</main>
+
+<footer>
+    <p>Blog de Esportes - 2026</p>
+</footer>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Basquete</title>
+</head>
+<body>
+
+<header>
+    <h1>Basquete</h1>
+</header>
+
+<nav>
+    <a href="index.html">Home</a> |
+    <a href="futebol.html">Futebol</a> |
+    <a href="basquete.html">Basquete</a> |
+    <a href="natacao.html">Natação</a> |
+    <a href="contatos.html">Contatos</a>
+</nav>
+
+<main>
+    <h2>Sobre o Basquete</h2>
+
+    <p>
+        O basquete é um esporte coletivo criado nos Estados Unidos.
+        O objetivo é marcar pontos arremessando a bola na cesta adversária.
+    </p>
+</main>
+
+<footer>
+    <p>Blog de Esportes - 2026</p>
+</footer>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Natação</title>
+</head>
+<body>
+
+<header>
+    <h1>Natação</h1>
+</header>
+
+<nav>
+    <a href="index.html">Home</a> |
+    <a href="futebol.html">Futebol</a> |
+    <a href="basquete.html">Basquete</a> |
+    <a href="natacao.html">Natação</a> |
+    <a href="contatos.html">Contatos</a>
+</nav>
+
+<main>
+    <h2>Sobre a Natação</h2>
+
+    <p>
+        A natação é uma atividade física completa que trabalha diversos grupos musculares
+        e contribui para a saúde e qualidade de vida.
+    </p>
+</main>
+
+<footer>
+    <p>Blog de Esportes - 2026</p>
+</footer>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Contatos</title>
+</head>
+<body>
+
+<header>
+    <h1>Contatos</h1>
+</header>
+
+<nav>
+    <a href="index.html">Home</a> |
+    <a href="futebol.html">Futebol</a> |
+    <a href="basquete.html">Basquete</a> |
+    <a href="natacao.html">Natação</a> |
+    <a href="contatos.html">Contatos</a>
+</nav>
+
+<main>
+    <h2>Entre em Contato</h2>
+
+    <p>Email: contato@blogesportes.com</p>
+    <p>Telefone: (27) 99999-9999</p>
+</main>
+
+<footer>
+    <p>Blog de Esportes - 2026</p>
+</footer>
+
+</body>
+</html>
